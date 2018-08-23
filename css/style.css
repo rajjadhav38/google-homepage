@@ -61,7 +61,8 @@ img#apps-img {
     
 }
 .inner-container {
-    width: 60%;
+    min-width:700px;
+    max-width: 700px;
     margin: 147px auto;
 }
 .logo {
